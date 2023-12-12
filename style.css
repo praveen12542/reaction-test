@@ -3,6 +3,10 @@ body{
     padding-top: 50px;
     
 }
+.whole-body{
+    height : 100%;
+    width : 100%;
+}
 .one{
     width: 50px;
     height: 200px;
