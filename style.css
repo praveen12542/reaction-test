@@ -4,8 +4,12 @@ body{
     
 }
 .whole-body{
-    height : 100%;
-    width : 100%;
+background: #fff;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
 }
 .one{
     width: 50px;
